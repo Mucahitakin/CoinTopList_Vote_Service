@@ -47,15 +47,15 @@ app.post("/vote", async (req, res) => {
         });
 
     } catch (error) {
-        console.error("Oy gönderme sırasında hata:", error.message);
+        console.error("Server Err :", error.message);
         res.status(500).json({
             success: false,
-            message: "Hata oluştu!",
+            message: "Server Err!",
             error: error.message,
         });
     }
 });
 
 app.listen(PORT, () => {
-    console.log(`🚀 Sunucu http://localhost:${PORT} adresinde çalışıyor`);
+    console.log(`Server work http://localhost:${PORT}`);
 });
