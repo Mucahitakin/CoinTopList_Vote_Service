@@ -1,6 +1,6 @@
 # Scraper API Vote Bot
 
-This Node.js application allows you to send multiple vote requests to the [CoinTopList](https://cointoplist.net) website using the [ScraperAPI](https://scraperapi.com). The script automates the voting process by making requests through ScraperAPI, bypassing IP restrictions.
+This Node.js application allows you to send multiple vote requests to the CoinTopList website using the [ScraperAPI](https://scraperapi.com). The script automates the voting process by making requests through ScraperAPI, bypassing IP restrictions.
 
 ## Features
 - Sends multiple vote requests automatically.
