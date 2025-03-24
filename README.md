@@ -14,8 +14,8 @@ This Node.js application allows you to send multiple vote requests to the CoinTo
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone [https://github.com/your-username/your-repo.git](https://github.com/Mucahitakin/CoinTopList_Vote_Service.git)
+cd CoinTopList_VoteService
 ```
 
 ### 2️⃣ Install Dependencies
